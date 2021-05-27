@@ -1,4 +1,4 @@
-
+#hlo
 print("-------->want to display name in * pattern format ? Enter 1")
 print("-------->want to display name in Diamond pattern ? Enter 2")
 print("-------->want to display name in between 2 hearts ? Enter 3")
